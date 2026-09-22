@@ -1,7 +1,6 @@
 # Chocolate Raspberry Celebration Cake
 git 
 This recipe makes a three-layer celebration cake with a raspberry filling between each layer and chocolate frosting on the outside.
-
 ## Cake Ingredients
 
 - 2 1/2 cups all-purpose flour
@@ -33,6 +32,7 @@ This recipe makes a three-layer celebration cake with a raspberry filling betwee
 
 - Fresh raspberries
 - A dusting of powdered sugar
+- Sprinkles
 
 ## Instructions
 
